@@ -3,7 +3,6 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
-    // Remove "start" if you are not using create-react-app
   },
   "dependencies": {
     "@react-pdf-viewer/core": "^3.12.0",
