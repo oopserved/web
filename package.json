@@ -5,7 +5,6 @@
     "preview": "vite preview"
     "scripts": {
   "start": "react-scripts start",
-  // other scripts
 }
   },
   "dependencies": {
