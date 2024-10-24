@@ -3,6 +3,10 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
+    "scripts": {
+  "start": "react-scripts start",
+  // other scripts
+}
   },
   "dependencies": {
     "@react-pdf-viewer/core": "^3.12.0",
