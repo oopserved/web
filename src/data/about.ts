@@ -1,5 +1,5 @@
 import { email, aboutUsDesc, socialsDesc, teamsDesc, competitionsDesc, workshopsDesc, officers, sponsors, partners } from './about';
-
+ 
 // import hcssLogo from "../assets/logos/hcss.webp";
 // import tomNTomsLogo from "../assets/logos/tom-n-toms.webp";
 // import csGirlsLogo from "../assets/logos/csgirls.webp";
